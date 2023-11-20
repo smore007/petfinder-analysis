@@ -2,3 +2,7 @@ Questions for Prof Gerber in Class.
 Question 1: We created a few histograms for our data and analysis plan regarding the distribution of time it took for dogs to be adopted. Rather than seeing a normal distribution or bell
 curve, we see an upside down bell curve (inverse bell curve or bimodal distribution). It seems that dogs are either adopted in a very large amount of time or very short amount of time, 
 with little time in between. Is this a concern? Could there be some thing wrong in the data? 
+Question 2: Why is Grace/Maddie's histogram of dog color not working when it's the same exact code as everyone elses? Jupyter notebook issue perhaps?
+Question 3: What is the best way to decide on features to input into the model? So far we looked at correlation matrix and pair plots and it's not looking promising for anything. We also compared positive vs. negative compatibilities and decided to focus on positive compatibilities. 
+Question 4: Should we be looking at models other than regressions? So far we have tried a multivariate linear and multivariate polynomial regression, both with poor results. 
+
