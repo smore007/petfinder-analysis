@@ -1,0 +1,4 @@
+Questions for Prof Gerber in Class. 
+Question 1: We created a few histograms for our data and analysis plan regarding the distribution of time it took for dogs to be adopted. Rather than seeing a normal distribution or bell
+curve, we see an upside down bell curve (inverse bell curve or bimodal distribution). It seems that dogs are either adopted in a very large amount of time or very short amount of time, 
+with little time in between. Is this a concern? Could there be some thing wrong in the data? 
